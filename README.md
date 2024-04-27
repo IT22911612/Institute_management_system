@@ -1,2 +1,2 @@
 # Institute_management_system
-institute
+institute managements system for ITP module
